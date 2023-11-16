@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Test_Nuget</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Test NuGet</Title>
+    <RepositoryUrl>https://github.com/Drescher86/exercise-publish-package.git</RepositoryUrl>
+    <PackageId>SuperSecretTestNuGet</PackageId>
+  </PropertyGroup>
+
+</Project>
